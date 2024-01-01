@@ -1,4 +1,4 @@
-package com.samuel.exercicios;
+package com.pazzini.exercicios;
 
 import com.pazzini.exercicio.Fibonacci;
 import org.junit.jupiter.api.Test;
