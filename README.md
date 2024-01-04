@@ -7,6 +7,7 @@ Classe Calculadora:
 A classe Calculadora oferece operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
 Essas operações são implementadas como métodos privados dentro da classe.
 A classe inclui tratamento de erros para divisão por zero.
+
 Uma classe de teste correspondente, CalculadoraTest, utiliza reflexão para testar os métodos privados da classe Calculadora.
 Classe ValidadorSenha:
 
@@ -17,18 +18,22 @@ Classe Fibonacci:
 A classe Fibonacci fornece um método, fibonacci, para calcular valores de Fibonacci em uma posição específica.
 A classe inclui validação de entrada para lidar com números negativos.
 Uma classe de teste correspondente, FibonacciTest, testa o método fibonacci com vários cenários de entrada, incluindo valores positivos válidos, zero e valores negativos.
+
 Testes com JUnit:
 
 Testes JUnit são amplamente utilizados para garantir a correção dos métodos implementados.
 Os testes abrangem uma variedade de cenários, incluindo casos ideais, casos limite e condições de erro.
+
 Testes com Reflexão:
 
 O projeto inclui o uso de reflexão para testar métodos privados da classe Calculadora.
 A reflexão é empregada para acessar e testar métodos privados, proporcionando uma cobertura de teste abrangente.
+
 Repositório no GitHub:
 
 Este projeto está destinado a ser hospedado no GitHub para controle de versão e colaboração.
 Recomenda-se incluir README detalhado para fornecer documentação e instruções para usuários e colaboradores.
+
 Observação:
 
 É recomendável incluir mais documentação, como instruções de uso, explicações sobre escolhas de design e considerações para desenvolvimento futuro, nos arquivos README ou de documentação do projeto.
